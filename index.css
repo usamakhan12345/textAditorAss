@@ -1,0 +1,30 @@
+/* .navabr{
+    background-color: black;
+}
+.list > li {
+    display: inline;
+    color: white;
+    padding: 40px;
+    padding-top: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+} */
+
+.list {
+    list-style-type: none;
+    
+
+}
+
+.list > li {
+    display: inline;
+    padding: 20px   ;
+}
+.nestedlist > li {
+    display: block;
+    
+    
+}
+.itemlist > li {
+    text-decoration: none ;
+}
